@@ -1,9 +1,5 @@
 
-<<<<<<< HEAD
 Test Data
-=======
-Hello From J1 File
->>>>>>> J1
 
 
 
