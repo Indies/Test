@@ -2,8 +2,3 @@
 Test Data of J2
 
 
-hhhhhhhhhhhhhhhhhhh
-
-Test Code
-
-111111
