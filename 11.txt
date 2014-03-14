@@ -1,5 +1,3 @@
-Hi J2
-
 11 Jump 2
 
 Hello J2
