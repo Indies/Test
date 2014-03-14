@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 Test Code
-=======
 2222222
-Test Data of J2
->>>>>>> origin/J2
